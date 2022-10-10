@@ -1,0 +1,1 @@
+10/09/2022 12:05:03 AM HTTP Error for POST to https://api.spotify.com/v1/playlists/2k6JJWf438qRIwmtfDX641/tracks with Params: {'position': None} returned 400 due to Error parsing JSON.
